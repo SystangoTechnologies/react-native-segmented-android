@@ -16,7 +16,7 @@ public class AndroidSegmentedEvent extends Event<AndroidSegmentedEvent> {
     private final int selectedPosition;
 
     public AndroidSegmentedEvent(int viewId, long timestampMs, int selectedPosition) {
-        super(viewId, timestampMs);
+        super(viewId);
         this.selectedPosition = selectedPosition;
     }
 

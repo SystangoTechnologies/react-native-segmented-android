@@ -1,24 +1,84 @@
 {
-  "name": "react-native-segmented-android",
-  "version": "1.0.4",
+  "_args": [
+    [
+      "react-native-segmented-android@^1.0.3",
+      "/Users/Systango2/Desktop/Strat-O-Matic/cardviewer"
+    ]
+  ],
+  "_from": "react-native-segmented-android@>=1.0.3 <2.0.0",
+  "_id": "react-native-segmented-android@1.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-segmented-android",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-segmented-android-1.0.4.tgz_1457089011199_0.4596208615694195"
+  },
+  "_npmUser": {
+    "email": "hnszyp@126.com",
+    "name": "zzyyppqq"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-segmented-android",
+    "raw": "react-native-segmented-android@^1.0.3",
+    "rawSpec": "^1.0.3",
+    "scope": null,
+    "spec": ">=1.0.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-segmented-android/-/react-native-segmented-android-1.0.4.tgz",
+  "_shasum": "223424ab2b6b31acdd90be1ff3d49953a0df2c1d",
+  "_shrinkwrap": null,
+  "_spec": "react-native-segmented-android@^1.0.3",
+  "_where": "/Users/Systango2/Desktop/Strat-O-Matic/cardviewer",
+  "author": {
+    "name": "zzyyppqq"
+  },
+  "bugs": {
+    "url": "https://github.com/zzyyppqq/react-native-segmented-android/issues"
+  },
+  "dependencies": {},
   "description": "a high imitation of iOS segmented Controls",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "223424ab2b6b31acdd90be1ff3d49953a0df2c1d",
+    "tarball": "http://registry.npmjs.org/react-native-segmented-android/-/react-native-segmented-android-1.0.4.tgz"
+  },
+  "gitHead": "df13238b5d469da9c60b10d2bddc864de756b1a0",
+  "homepage": "https://github.com/zzyyppqq/react-native-segmented-android#readme",
+  "keywords": [
+    "android",
+    "react-component",
+    "react-native",
+    "segmented"
+  ],
+  "license": "ISC",
   "main": "AndroidSegmented.js",
+  "maintainers": [
+    {
+      "name": "zzyyppqq",
+      "email": "hnszyp@126.com"
+    }
+  ],
+  "name": "react-native-segmented-android",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">= 0.18.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzyyppqq/react-native-segmented-android.git"
+  },
   "scripts": {
     "test": "react-native start"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zzyyppqq/react-native-segmented-android.git"
-  },
-  "keywords": [
-    "android",
-    "segmented",
-    "react-component",
-    "react-native"
-  ],
-  "author": "zzyyppqq",
-  "license": "ISC",
-  "peerDependencies": {
-    "react-native": ">= 0.18.0"
-  }
+  "version": "1.0.4"
 }
