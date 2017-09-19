@@ -3,9 +3,30 @@
     [
       "react-native-segmented-android@^1.0.3",
       "/Users/Systango2/Desktop/Strat-O-Matic/cardviewer"
+    ],
+    [
+      {
+        "raw": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+        "spec": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:SystangoTechnologies/react-native-segmented-android.git",
+          "sshUrl": "git+ssh://git@github.com/SystangoTechnologies/react-native-segmented-android.git",
+          "httpsUrl": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+          "gitUrl": "git://github.com/SystangoTechnologies/react-native-segmented-android.git",
+          "shortcut": "github:SystangoTechnologies/react-native-segmented-android",
+          "directUrl": "https://raw.githubusercontent.com/SystangoTechnologies/react-native-segmented-android/master/package.json"
+        }
+      },
+      "/Users/stplmacmini19/Projects/BatterVsPitcher 3"
     ]
   ],
-  "_from": "react-native-segmented-android@>=1.0.3 <2.0.0",
+  "_from": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
   "_id": "react-native-segmented-android@1.0.4",
   "_inCache": true,
   "_installable": true,
@@ -22,21 +43,33 @@
   "_npmVersion": "3.5.2",
   "_phantomChildren": {},
   "_requested": {
-    "name": "react-native-segmented-android",
-    "raw": "react-native-segmented-android@^1.0.3",
-    "rawSpec": "^1.0.3",
+    "raw": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
     "scope": null,
-    "spec": ">=1.0.3 <2.0.0",
-    "type": "range"
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+    "spec": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:SystangoTechnologies/react-native-segmented-android.git",
+      "sshUrl": "git+ssh://git@github.com/SystangoTechnologies/react-native-segmented-android.git",
+      "httpsUrl": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+      "gitUrl": "git://github.com/SystangoTechnologies/react-native-segmented-android.git",
+      "shortcut": "github:SystangoTechnologies/react-native-segmented-android",
+      "directUrl": "https://raw.githubusercontent.com/SystangoTechnologies/react-native-segmented-android/master/package.json"
+    }
   },
   "_requiredBy": [
-    "/"
+    "#USER",
+    "/",
+    "/player_card_module"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-segmented-android/-/react-native-segmented-android-1.0.4.tgz",
-  "_shasum": "223424ab2b6b31acdd90be1ff3d49953a0df2c1d",
+  "_resolved": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git#5953ae73f95dac173c4877e8374f468da6b54eb8",
+  "_shasum": "f69808c99ac1a02fd2805b6042f0eaa92304754e",
   "_shrinkwrap": null,
-  "_spec": "react-native-segmented-android@^1.0.3",
-  "_where": "/Users/Systango2/Desktop/Strat-O-Matic/cardviewer",
+  "_spec": "git+https://github.com/SystangoTechnologies/react-native-segmented-android.git",
+  "_where": "/Users/stplmacmini19/Projects/BatterVsPitcher 3",
   "author": {
     "name": "zzyyppqq"
   },
